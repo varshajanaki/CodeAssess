@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Technology Stack
 
 - **Frontend**: React
@@ -80,3 +81,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or feedback, feel free to reach out to us at [varshajanaki5@gmail.com].
+=======
+# CodeAssess
+CodeAssess is a MERN-based assessment platform designed for conducting online exams and coding tests with secure authentication, question management, and real-time result tracking.
+>>>>>>> 2df208cf9f741d1f640355056751aa8c2bc74a1e
