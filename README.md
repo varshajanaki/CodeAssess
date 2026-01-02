@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Technology Stack
 
 - **Frontend**: React
@@ -10,7 +9,7 @@
 
 To run this project locally:
 
-2. **Install dependencies**:
+1. **Install dependencies**:
     ```bash
     cd backend
     npm install
@@ -20,7 +19,7 @@ To run this project locally:
     npm install
     ```
 
-3. **Set up environment variables**: Create a `.env` file in the root directory and add the necessary environment variables.
+2. **Set up environment variables**: Create a `.env` file in the root directory and add the necessary environment variables.
    **Backend**
     ```bash
     mongo_url = ""
@@ -31,7 +30,7 @@ To run this project locally:
    ```bash
    VITE_API_BASE_URL=
    ```
-5. **Run the development server**:
+3. **Run the development server**:
     ```bash
     cd backend
     npm run dev
@@ -81,7 +80,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or feedback, feel free to reach out to us at [varshajanaki5@gmail.com].
-=======
-# CodeAssess
-CodeAssess is a MERN-based assessment platform designed for conducting online exams and coding tests with secure authentication, question management, and real-time result tracking.
->>>>>>> 2df208cf9f741d1f640355056751aa8c2bc74a1e
